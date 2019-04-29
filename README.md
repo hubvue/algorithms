@@ -1,6 +1,10 @@
 # algorithms
 🍓用JavaScript写一些算法
 
+## 数据结构
+- [列表](https://github.com/hubvue/algorithms/issues/11)
+
+
 ## 排序
 - [快速排序](https://github.com/hubvue/algorithms/issues/2)
 
