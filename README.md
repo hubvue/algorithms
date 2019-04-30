@@ -6,6 +6,7 @@
 - [队列](https://github.com/hubvue/algorithms/issues/12)
 - [栈](https://github.com/hubvue/algorithms/issues/13)
 - [链表](https://github.com/hubvue/algorithms/issues/14)
+- [集合](https://github.com/hubvue/algorithms/issues/16)
 
 ## 排序
 - [快速排序](https://github.com/hubvue/algorithms/issues/2)
