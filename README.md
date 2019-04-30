@@ -5,6 +5,7 @@
 - [列表](https://github.com/hubvue/algorithms/issues/11)
 - [队列](https://github.com/hubvue/algorithms/issues/12)
 - [栈](https://github.com/hubvue/algorithms/issues/13)
+- [链表](https://github.com/hubvue/algorithms/issues/14)
 
 ## 排序
 - [快速排序](https://github.com/hubvue/algorithms/issues/2)
