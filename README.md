@@ -1,8 +1,9 @@
 # algorithms
 🍓用JavaScript写一些算法
+## 导论
+- [数据结构导论](https://github.com/hubvue/algorithms/issues/18)
 
 ## 数据结构
-- [数据结构导论](https://github.com/hubvue/algorithms/issues/18)
 - [列表](https://github.com/hubvue/algorithms/issues/11)
 - [队列](https://github.com/hubvue/algorithms/issues/12)
 - [栈](https://github.com/hubvue/algorithms/issues/13)
