@@ -2,7 +2,7 @@
 🍓用JavaScript写一些算法
 ## 导论
 - [数据结构导论](https://github.com/hubvue/algorithms/issues/18)
-
+- [算法导论](https://github.com/hubvue/algorithms/issues/19)
 ## 数据结构
 - [列表](https://github.com/hubvue/algorithms/issues/11)
 - [队列](https://github.com/hubvue/algorithms/issues/12)
