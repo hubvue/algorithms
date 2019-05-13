@@ -18,6 +18,7 @@
 - [冒泡排序](https://github.com/hubvue/algorithms/issues/22)
 - [选择排序](https://github.com/hubvue/algorithms/issues/23)
 - [插入排序](https://github.com/hubvue/algorithms/issues/24)
+- [希尔排序](https://github.com/hubvue/algorithms/issues/25)
 
 ## 搜索
 - [二分查找法 ](https://github.com/hubvue/algorithms/issues/1)
