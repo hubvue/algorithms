@@ -35,3 +35,11 @@
 
 ## 去重
 - [数组去重](https://github.com/hubvue/algorithms/issues/6)
+
+
+## C++排序算法
+- [归并排序](https://github.com/hubvue/algorithms/issues/31)
+- [快速排序](https://github.com/hubvue/algorithms/issues/30)
+- [插入排序](https://github.com/hubvue/algorithms/issues/29)
+- [选择排序](https://github.com/hubvue/algorithms/issues/28)
+- [冒泡排序](https://github.com/hubvue/algorithms/issues/27)
