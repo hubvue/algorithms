@@ -43,3 +43,10 @@
 - [插入排序](https://github.com/hubvue/algorithms/issues/29)
 - [选择排序](https://github.com/hubvue/algorithms/issues/28)
 - [冒泡排序](https://github.com/hubvue/algorithms/issues/27)
+
+
+## LeetCode
+把自己刷过的题写下题解
+
+- [**3、无重复字符的最长子串**](https://github.com/hubvue/algorithms/issues/32)
+- [**5、最长回文子串**](https://github.com/hubvue/algorithms/issues/33)
