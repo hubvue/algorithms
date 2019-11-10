@@ -14,14 +14,26 @@
 - [JavaScript中图的实现](https://github.com/hubvue/algorithms/issues/21)
 ## 排序
 ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557739723550&di=7c2f29373a421e13a06f88c61b13fb36&imgtype=0&src=http%3A%2F%2Fimg.2cto.com%2FCollfiles%2F20160812%2F201608121004021277.jpg)
+
+### JavaScript版
 - [快速排序](https://github.com/hubvue/algorithms/issues/2)
 - [冒泡排序](https://github.com/hubvue/algorithms/issues/22)
 - [选择排序](https://github.com/hubvue/algorithms/issues/23)
 - [插入排序](https://github.com/hubvue/algorithms/issues/24)
 - [希尔排序](https://github.com/hubvue/algorithms/issues/25)
 - [归并排序](https://github.com/hubvue/algorithms/issues/26)
+
+
+### C++版
+- [归并排序](https://github.com/hubvue/algorithms/issues/31)
+- [快速排序](https://github.com/hubvue/algorithms/issues/30)
+- [插入排序](https://github.com/hubvue/algorithms/issues/29)
+- [选择排序](https://github.com/hubvue/algorithms/issues/28)
+- [冒泡排序](https://github.com/hubvue/algorithms/issues/27)
+
 ## 搜索
 - [二分查找法 ](https://github.com/hubvue/algorithms/issues/1)
+
 ## 字符串
 - [编写一个方法，求一个字符串的字节长度](https://github.com/hubvue/algorithms/issues/3)
 - [判断一个单词是否是回文](https://github.com/hubvue/algorithms/issues/5)
@@ -36,13 +48,6 @@
 ## 去重
 - [数组去重](https://github.com/hubvue/algorithms/issues/6)
 
-
-## C++排序算法
-- [归并排序](https://github.com/hubvue/algorithms/issues/31)
-- [快速排序](https://github.com/hubvue/algorithms/issues/30)
-- [插入排序](https://github.com/hubvue/algorithms/issues/29)
-- [选择排序](https://github.com/hubvue/algorithms/issues/28)
-- [冒泡排序](https://github.com/hubvue/algorithms/issues/27)
 
 
 ## LeetCode
