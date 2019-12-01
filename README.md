@@ -58,3 +58,8 @@
 - [**6、Z 字形变换**](https://github.com/hubvue/algorithms/issues/34)
 - [**11、盛最多水的容器**](https://github.com/hubvue/algorithms/issues/35)
 - [**12、整数转罗马数字**](https://github.com/hubvue/algorithms/issues/36)
+- [**15、三数之和**](https://github.com/hubvue/algorithms/issues/37)
+- [**16、最接近的三数之和**](https://github.com/hubvue/algorithms/issues/38)
+- [**17、电话号码的字母组合**](https://github.com/hubvue/algorithms/issues/39)
+- [**18、四数之和**](https://github.com/hubvue/algorithms/issues/40)
+- [**19、删除链表的倒数第N个节点**](https://github.com/hubvue/algorithms/issues/41)
