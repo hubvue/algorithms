@@ -65,3 +65,5 @@
 - [**19、删除链表的倒数第N个节点**](https://github.com/hubvue/algorithms/issues/41)
 - [**20、有效的括号**](https://github.com/hubvue/algorithms/issues/42)
 - [**21、合并两个有序链表**](https://github.com/hubvue/algorithms/issues/43)
+- [**22、括号生成**](https://github.com/hubvue/algorithms/issues/44)
+- [**23、合并K个排序链表**](https://github.com/hubvue/algorithms/issues/45)
