@@ -69,3 +69,5 @@
 - [**23、合并K个排序链表**](https://github.com/hubvue/algorithms/issues/45)
 - [**24、两两交换链表中的节点**](https://github.com/hubvue/algorithms/issues/46)
 - [**25、K 个一组翻转链表**](https://github.com/hubvue/algorithms/issues/47)
+- [**26、删除排序数组中的重复项**](https://github.com/hubvue/algorithms/issues/48)
+- [**27、移除元素**](https://github.com/hubvue/algorithms/issues/49)
