@@ -71,3 +71,5 @@
 - [**25、K 个一组翻转链表**](https://github.com/hubvue/algorithms/issues/47)
 - [**26、删除排序数组中的重复项**](https://github.com/hubvue/algorithms/issues/48)
 - [**27、移除元素**](https://github.com/hubvue/algorithms/issues/49)
+- [**28、实现 strStr()**](https://github.com/hubvue/algorithms/issues/50)
+- [**29、两数相除**](https://github.com/hubvue/algorithms/issues/51)
