@@ -73,3 +73,5 @@
 - [**27、移除元素**](https://github.com/hubvue/algorithms/issues/49)
 - [**28、实现 strStr()**](https://github.com/hubvue/algorithms/issues/50)
 - [**29、两数相除**](https://github.com/hubvue/algorithms/issues/51)
+- [**31、下一个排列**](https://github.com/hubvue/algorithms/issues/52)
+- [**35、搜索插入位置**](https://github.com/hubvue/algorithms/issues/53)
