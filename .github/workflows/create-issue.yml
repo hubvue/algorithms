@@ -1,0 +1,13 @@
+name: CI
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: cd scripts && npm i --only=production
+      - run: cd scripts && npx esno ./issue.ts ${{github.token}}
