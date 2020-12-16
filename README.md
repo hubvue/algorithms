@@ -1,5 +1,5 @@
 # algorithms
-🍓用JavaScript写一些算法
+🍓用JavaScript 和 Python 写一些算法
 ## 导论
 - [数据结构导论](https://github.com/hubvue/algorithms/issues/18)
 - [算法导论](https://github.com/hubvue/algorithms/issues/19)
