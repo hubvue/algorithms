@@ -13,7 +13,7 @@ async function main() {
   // await createIssue(github, context, core)
 }
 
-function errorHandler(err: any) {
+function errorHandler(err) {
   console.error(err)
   core.setFailed(`Unhandled error: ${err}`)
 }

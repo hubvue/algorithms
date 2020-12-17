@@ -10,4 +10,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: cd scripts && npm install
-      - run: cd scripts && npx node --loader @k-foss/ts-esnode --experimental-specifier-resolution=node ./src/index.ts ${{github.token}}
+      - run: cd scripts && npx node ./loader.js ${{github.token}}
