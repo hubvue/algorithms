@@ -1,1 +1,1 @@
-console.log('Hello world')
+// export const createIssue = async (github, context, core) => {}
