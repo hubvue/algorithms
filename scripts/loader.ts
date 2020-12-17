@@ -4,7 +4,7 @@ import { context, getOctokit } from '@actions/github'
 
 process.on('unhaandledRejection', errorHandler)
 main().catch(errorHandler)
-
+console.log('123', 123)
 async function main() {
   const token = process.argv[2]
   const github = getOctokit(token)
