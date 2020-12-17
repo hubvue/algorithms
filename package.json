@@ -26,6 +26,7 @@
     "@actions/core": "^1.2.6",
     "@actions/github": "^4.0.0",
     "@actions/io": "^1.0.2",
+    "esno": "^0.3.0",
     "ts-node": "^9.1.1"
   }
 }
