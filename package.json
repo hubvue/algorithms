@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "🍓用JavaScript 和 Python 写一些算法 ",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
