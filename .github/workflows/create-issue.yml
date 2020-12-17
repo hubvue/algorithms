@@ -9,5 +9,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: cd scripts && npm i --only=production
+      - run: cd scripts && npm install
       - run: cd scripts && npx ts-node ./issue.ts ${{github.token}}
