@@ -10,4 +10,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: cd scripts && npm install
-      - run: cd scripts && npx esno ./issue.ts ${{github.token}}
+      - run: cd scripts && npx ts-node ./loader.ts ${{github.token}}
